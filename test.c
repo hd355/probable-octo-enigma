@@ -2,6 +2,8 @@
 
 int main
 {
-	printf("Hello world")
-	printf("")
+	int	num;
+	printf("Hello world");
+	printf("\n");
+	scanf("%d",num);
 }
